@@ -1,5 +1,9 @@
-d 'DEA': Data envelopment analysis
+d 'relogit': Rare events logistic regression Use relogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f relogit.ado
+f relogit.sthlp
+f relogitq.ado
+f relogitq.sthlp
+f setx.ado
+f setx.sthlp
+f setxhl.ado
