@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p relogit Rare events logistic regression Use relogit With STATA 18
