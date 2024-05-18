@@ -5,6 +5,8 @@ Logit with corrected coefficients Use relogit With STATA 18
 
 Corrected logit estimates Use relogit With STATA 18
 
+https://www.youtube.com/watch?v=twp84vr3O_g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
